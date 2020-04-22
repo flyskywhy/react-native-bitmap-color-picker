@@ -1,0 +1,46 @@
+{
+  "name": "react-native-bitmap-color-picker",
+  "version": "1.0.0",
+  "description": "A color picker on a bitmap image palette",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "glaciall-bitmap": "1.1.0",
+    "immutable": "^3.8.2",
+    "prop-types": "^15.5.10",
+    "tinycolor2": "^1.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyskywhy/react-native-bitmap-color-picker.git"
+  },
+  "keywords": [
+    "android",
+    "bitmap",
+    "color",
+    "color-picker",
+    "colour",
+    "ios",
+    "palette",
+    "rainbow",
+    "react-native",
+    "rgb",
+    "spectrum",
+    "wheel"
+  ],
+  "author": "Li Zheng",
+  "funding": [{
+    "type": "individual",
+    "url": "https://Alipay/flyskywhy@gmail.com"
+  },{
+    "type": "individual",
+    "url": "https://EthAddress/0xd02fa2738dcbba988904b5a9ef123f7a957dbb3e"
+  }],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flyskywhy/react-native-bitmap-color-picker/issues"
+  },
+  "homepage": "https://github.com/flyskywhy/react-native-bitmap-color-picker#readme"
+}
