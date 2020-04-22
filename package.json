@@ -1,6 +1,6 @@
 {
   "name": "react-native-bitmap-color-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A color picker on a bitmap image palette",
   "main": "index.js",
   "scripts": {
